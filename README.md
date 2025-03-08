@@ -1,11 +1,11 @@
-first create virtual environment
+## first create virtual environment
 py -m venv env
 
-activate virtual environment
+## activate virtual environment
 .\env\Scripts\activate
 
-install all required libraries
+## install all required libraries
 pip install requirements.txt
 
-Now Runserver
+## Now Runserver
 python manage.py runserver
